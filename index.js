@@ -10,4 +10,4 @@ return "Meri Nanhi Pari"
 })
 
 
-let lasa  = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaugh"
+let lasa  = "aaaaaaaaaaaaaaaaaaaugh"
