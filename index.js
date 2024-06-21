@@ -10,4 +10,3 @@ return "Meri Nanhi Pari"
 })
 
 
-const manges = 22222;
