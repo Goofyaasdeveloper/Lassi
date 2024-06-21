@@ -10,3 +10,5 @@ return "Meri Nanhi Pari"
 })
 
 
+
+let bubu = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUHHH"
